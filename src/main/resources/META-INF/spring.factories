@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ru.trueengineering.lib.logger.autoconfigure.LoggingConfiguration

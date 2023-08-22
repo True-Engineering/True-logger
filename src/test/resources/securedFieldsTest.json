@@ -1,0 +1,15 @@
+{
+  "login": "user",
+  "password": "*****",
+  "sex": true,
+  "isMarried": "*****",
+  "id": 11123,
+  "age": "*****",
+  "nullField": null,
+  "securedNullField": "*****",
+  "objectField": {
+    "height": 175,
+    "weight": "*****"
+  },
+  "securedObjectField": "*****"
+}
