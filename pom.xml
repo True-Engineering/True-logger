@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <groupId>ru.trueengineering</groupId>
-    <version>${env.SEM_VERSION}</version>
+    <version>1.0.0</version>
     <artifactId>true-logger</artifactId>
     <modelVersion>4.0.0</modelVersion>
 
